@@ -1,6 +1,15 @@
 # Documentation
 Documentation relevant to the designs and examples availablle on https://github.com/RISCV-on-Microsemi-FPGA.
 
+### MIV_RV32IMA_L1_AHB
+Handbook and Release Note for the MIV_RV32IMA_L1_AHB soft processor IP core
+
+### MIV_RV32IMA_L1_AXI
+Handbook and Release Note for the MIV_RV32IMA_L1_AXI soft processor IP core
+
+### MIV_RV32IMAF_L1_AHB
+Handbook and Release Note for the MIV_RV32IMAF_L1_AHB soft processor IP core
+
 ### CoreRISC_AXI4_HB.pdf
 This is the handbook for the CoreRISCV_AXI4 processor IP block. CoreRISCV_AXI4 is used in the example hardware designs found on https://github.com/RISCV-on-Microsemi-FPGA.
 
