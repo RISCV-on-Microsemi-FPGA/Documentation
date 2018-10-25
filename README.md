@@ -24,3 +24,8 @@ This guide explains how to use SoftConsole V5.0 on Ubuntu to debug firmware.
 ### RISC-V_Soft_Processor_on_PolarFire.pdf
 This document explains in detail how to use a RISC-V on Microsemi PolarFire FPGA. 
 Microsemi PolarFire FPGA: https://www.microsemi.com/products/fpga-soc/design-resources/dev-kits/polarfire/polarfire-eval-kit 
+
+
+### Future Electronics Microsemi Creative Development Board User Guide Rev 1.pdf
+This is the user guide for the Creative Develoment board from Future Electronics.
+It contains pin locations and DDR set up.
